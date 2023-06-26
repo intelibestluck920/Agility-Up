@@ -1,0 +1,24 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/ubuntu/agilityup-backend
+    overwrite: true
+file_exists_behavior: OVERWRITE
+hooks:
+  ApplicationStop:
+    - location: scripts/application-stop
+      timeout: 200
+      runas: ubuntu
+  BeforeInstall:
+    - location: scripts/before-install
+      timeout: 200
+      runas: ubuntu
+  AfterInstall:
+    - location: scripts/after-install
+      timeout: 500
+      runas: ubuntu
+  ApplicationStart:
+    - location: scripts/application-start
+      timeout: 200
+      runas: root

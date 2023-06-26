@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agilityup",
+  "private_key_id": "8fd95804be2bb3efbf35bb69b7a9766a810e4814",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2+SAj7J1h4rCY\nvzYrW569j6sNvgP+erQ13e5qfcF8/xOSM6+e30S6hWtamd5FkZkZ6ZkWhYTfEKcZ\nBF+M+JCkqttzwCKptz/YzPmotglbgGQMmgQbwVPPZaQTYPIN7puuPIIxDfwyOV4U\nKx2/Dwudk3TAdKaI8s52dMVMFE7BBhMYN6NZqn/eLWjL6urCQ5CdYhHjo+TNtSw9\nBMEyPXIsd/VRTnrd7apReBbETNB5fkSOvuIBrD3PNj2gCxzceKNHxdgdzuJHNxji\nGV2nRGsrJZ4EntXF35tkeWIdZoKS5CUmxOqflZDgb7UIDvzkwLHNgO1HKcfR7MV2\npZ7VjB3RAgMBAAECggEABjwPGWcR5i8PiszgWPIQwrwwygTI/w4jfz7JXzon8lnn\nF7eIiunOd9D3AcnPaWBwlPgnar1W9ADajyXEGboYhG8Vj86isu5XD+YzTy/dhsKL\nsv0GgDZosPiK8pjkw1vEVNej+gbt3bCkIRzM/fpSkEzhENoiS8Icp3jYH8nRwY4k\nD1a8ZjKL9AwpUA0LvPg71APnr68nOt8Kup9InuRcLcN6vp7HcnFCT1I9E0NWVqZD\nSig32Cuvs0VJXLdFrrxiR0NdJpU1qXrpC4bvAoxUQHzuEGzOSvThpspTsc6gfSyx\nqnbnqCHlZqU2Y364yxtXJawHpf+D5204oQHHmqmuyQKBgQD2bZ+jwlVAeAWCK8Di\nCViji8+O1DHD5kHFDi9/fRcDVumC4h+jVtx6aCg6nN7zVh6Gb21a3nYxifuEghkl\nwMNDiAfH2hNr5TFQFUKwfIOrMXsKzmoRXTyESTx8lSH++WaX4CDDMqIeKy3CWoe/\nK5BjIipk0208jOHoSnTLHBhN5QKBgQC+FIgvcvPsx40knATekV7ZXjo9aDHWYtQO\nFvmpOrHzpu0XhpbqMDdPXttpBaTGkTt0ed7sWnyH/lx1IsdsR5iZGPAlzMO+5KUv\n0mDKADHLlhH2OwBgDuaWs+HIjDVwgxSbWM2pjEC1+S35VmbMtYoQNm6U96rDZ04a\nz4njgVxxfQKBgQD1oJc6931aYUe8VDhSFdbQTY95YnCoP17XOCiH/vttTLg8yX+X\npADn0eInai2ghvquLWrm5E8TWeHmVncSdm0rZu+6eNha93yLwmVS3QmxHgTy5IQ9\nAp5LjWRJGa1lJNrqD3EYn+OQBqH505rzJk0pQujWzxdW/2Y9z9lSipJ/MQKBgBb3\nCBUjgFEFMwpPR09UpO8CMWsl4Y+TVSd2oydNDh7v9gk3m5gjxyrxvPSNWAEdnt9N\nsh9AN3d+xdDpKMruQ4OLvcfzW1r+6O5ELql5KIr+UKE9M6hnZHiktwyx0+sKCz1R\nl1d6uH7D4kgTpkvpSwr2aJna6mi9XHRkyrYP9QlJAoGBALm5s/xcJgdVHANXMQgZ\n/Jh1qV6xo7L6oRAaxai7tkuQf/KPfLewIhHb2vxg+d3VewkpmfpNVggo88PCV3Hy\nrA3cGaAqE+pms+sLzZznQ2h0w5B6K6fB1FySMAaQ4jBd9/H9rVCs0Jz+zoreinMb\nWbah1t0rvpAvd7gm9JiYgfgB\n-----END PRIVATE KEY-----\n",
+  "client_email": "agilityup-service@agilityup.iam.gserviceaccount.com",
+  "client_id": "105089347715279097382",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agilityup-service%40agilityup.iam.gserviceaccount.com"
+}
